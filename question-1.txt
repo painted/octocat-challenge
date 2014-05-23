@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Clone makes a copy of the files from the repository and puts it in your directory.
