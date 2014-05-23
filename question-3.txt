@@ -1,1 +1,2 @@
-Explain what a branch is, in your own words
+A branch is a tangent that is created so the main project is untouched when creating new functions or ideas. 
+This way multiple designers can work on the different things in the same project at the same time. 
